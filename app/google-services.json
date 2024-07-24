@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385648113630",
+    "project_id": "goalsgame-7592b",
+    "storage_bucket": "goalsgame-7592b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385648113630:android:50ed48e6677fcb4b2c0f4f",
+        "android_client_info": {
+          "package_name": "com.CasualArtist.GoalsGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsQVEpEfRwhAdhplOBYko_wTcLtX_ES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385648113630:android:5ae3096ac9a957122c0f4f",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsQVEpEfRwhAdhplOBYko_wTcLtX_ES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
